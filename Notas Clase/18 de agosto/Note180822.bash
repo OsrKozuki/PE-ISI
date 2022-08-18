@@ -57,7 +57,7 @@ Ejemplo: 100110
  La suma dadas por las posiciones de los 1 da 38
  
  Para pasr de 78 decimal a hexadecimal primero pasamos a bits
- 1.- Primero pasamos a binario con el metodo conocido
+ 1.- Primero pasamos a bingigabyteario con el metodo conocido
 [] [1] [0] [0] [1] [1] [1] []
 128 64 32  16   8   4   2  1
  2.-
@@ -67,8 +67,21 @@ Ejemplo: 100110
  4 bits = 15
 
 
+!!!!ESTRUCTUA DE datos!!!!
+char --> 8 bits = 255 
+int --> 32 bits
+float --> 32 bits
+long --> 64 bits 
 
+ESTRUCTURA DE c
 
- 
+=================================
+#include <stdio.h> ----> Libreria de C, todo lo que termine con .h en C se entiende como libreria 
+#include <stdlib.h> ----> Este es de ejemplo, luego lo usaremos
 
-
+int main () # Entrada al programa, es lo que siempre se busca, la funcion "main"
+# En este caso al llamar una funcion espero algo, en esta estructura espera un "int"
+{
+    printf("Hola ! \n"); #
+    return 0;
+}
