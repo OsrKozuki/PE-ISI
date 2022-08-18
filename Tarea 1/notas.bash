@@ -45,3 +45,30 @@ Por lo tanto hay 16 digitos
 
 Si se habla en decimal se debe de poner un subindice '10' o si es un hexadecimal un subindice '16'
 
+Para representar en decimal o hexadecimal en computadoras que no se pueden poner subindices
+se pone una "b" antes o un "0x" para hexadecimal
+
+"Conversion de binario a decimal"
+Ejemplo: 100110
+
+[1] [0] [0] [1] [1] [0]
+ 32  16  8   4    2   1
+
+ La suma dadas por las posiciones de los 1 da 38
+ 
+ Para pasr de 78 decimal a hexadecimal primero pasamos a bits
+ 1.- Primero pasamos a binario con el metodo conocido
+[] [1] [0] [0] [1] [1] [1] []
+128 64 32  16   8   4   2  1
+ 2.-
+ [0] [] [0] [] | [1] [1] [1] [1] PENDIENTE DE TERMINAR
+  8  4  2  1     8  4  2  1
+ Por cada paquete 4 bits se pueden guardar hasta el numero 15
+ 4 bits = 15
+
+
+
+
+ 
+
+
