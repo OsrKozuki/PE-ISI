@@ -82,6 +82,12 @@ ESTRUCTURA DE c
 int main () # Entrada al programa, es lo que siempre se busca, la funcion "main"
 # En este caso al llamar una funcion espero algo, en esta estructura espera un "int"
 {
-    printf("Hola ! \n"); #
+    printf("Hola ! \n"); ##include <stdio.h>
+
+
+int main() 
+{
+    float x = 1.1;
+}
     return 0;
 }
