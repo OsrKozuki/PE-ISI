@@ -34,7 +34,7 @@ int main()
  }
  else
  {
-   printf("El candado no te permite pasar \n");
+   printf("El reprobaste, tienes un examen que no pasa el candado \n");
  }
  
  
