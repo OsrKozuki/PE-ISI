@@ -25,7 +25,7 @@ int main()
 
       if (promedio >= 6)
       {
-         printf("Tienes calificacion aprobatoria /n");
+         printf("Tienes calificacion aprobatoria \n");
       }
       else
       {
@@ -34,7 +34,7 @@ int main()
  }
  else
  {
-   printf("El reprobaste, tienes un examen que no pasa el candado \n");
+   printf("Reprobaste, tienes un examen que no pasa el candado \n");
  }
  
  
