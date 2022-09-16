@@ -6,7 +6,7 @@ int main()
     int x = 6;
     if (validador_de_fiesta(x,1) == 1)
     {
-        printf("Hay fiesta loco \n");
+        printf("Hay fiesta loco \n");  
     }else
     {
         printf("No hay fiesta, NO \n");
