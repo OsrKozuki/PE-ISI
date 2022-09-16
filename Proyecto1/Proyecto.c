@@ -1,6 +1,6 @@
 /* Autores:
     # Dafne Yamile García Castañeda
-    #
+    # Getsemani Sarahi Monreal Tapia
     # Oscar Alberto Alor Santiago
 */
 
